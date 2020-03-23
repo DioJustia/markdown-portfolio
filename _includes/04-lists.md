@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Not using github
+2. Staying away from github
+   1. Doing something else
+   2. Avoiding Github
